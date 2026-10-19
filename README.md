@@ -219,4 +219,4 @@ Polarr Photo Editor is available as a full free version, offering all features a
 Experience the power of professional editing with Polarr Photo Editor—download your free copy today and start enhancing your photos!
 
 ---
-**Last updated:** 2026-10-18 22:45:08 UTC
+**Last updated:** 2026-10-19 00:47:52 UTC
